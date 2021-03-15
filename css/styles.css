@@ -34,6 +34,7 @@ font-size: 16px;
 line-height: 1.88;
 letter-spacing: 0.06em;
 cursor: pointer;
+font-family: 'roboto', sans-serif;
 }
 
 .button:hover,
@@ -93,6 +94,7 @@ color: var(--accent-color)
 color: var(--primary-text-color);
 font-weight: 500;
 letter-spacing: 0.02em;
+font-style: normal;
 }
 
 .page-title {
@@ -109,6 +111,7 @@ text-transform: uppercase;
 .advantages-title {
 color: var(--title-text-color);
 font-weight: 700;
+text-transform: uppercase;
 }
 
 .advantages .advantages-text {
@@ -149,6 +152,7 @@ line-height: 1.71;
 .address p {
 color: var(--primary-bg-color);
 line-height: 1.71;
+font-style: normal;
 }
 
 .footer {
